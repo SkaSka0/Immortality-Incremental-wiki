@@ -75,7 +75,7 @@ fixed at 3)*.
 *Layer 3 (resetting here resets Insight + Essence + Soulfire all at once)*
 
 - **Reset:** Soul Forging resets Realm, Qi, Insight, Essence, and their upgrades for Soulfire. Soulfire gain is based on your current Essence.
-- **Unlock requirement:** 1Sx Essence *(read from screenshot — flag/confirm if this should be "15x" instead)*
+- **Unlock requirement:** 1Sx Essence
 - **Example gain on reset (snapshot):** +18.32Nod Soulfire
 - **Use of Soulfire points:** level up Soulfire Upgrades + roll gacha for **Mark of Soulfire** (5K Soulfire/roll — see `marks-database.md`)
 
