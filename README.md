@@ -17,6 +17,7 @@ of truth that an AI assistant (Claude) can read from and edit directly.
 | [`map-2-spirit-realm.md`](./map-2-spirit-realm.md) | Map 2 — Spirit Realm. Prestige layers Stars, Nebulae, Quasar, plus the map's Random Feature. |
 | [`map-3-underworld.md`](./map-3-underworld.md) | Map 3 — Underworld. Prestige layers Miasma, Ash, Laws, plus the map's Random Feature. |
 | [`marks-database.md`](./marks-database.md) | Catalog of all Marks (permanent gacha system) and their items, plus the global Stats Roll history (Luck/Bulk/Speed/Clone/MPS over time). Stays separate from the per-map files. |
+| [`number-suffixes.md`](./number-suffixes.md) | Legend for the large-number suffix notation used across all files (K, M, B, ... up to combination suffixes like `QagCent`). |
 
 More map files may be added later as new maps are discovered/accessed (e.g. Immortal Realm,
 Infinite Forest) — this table should be kept up to date whenever a new file is introduced.
@@ -48,7 +49,9 @@ as a guess — never presented as settled fact until confirmed.
 ## Data conventions
 
 - **Numbers**: always written exactly as shown in-game, using the native suffix (K, M, B, T, Qa,
-  Sx, Ud, Dc, Cent, etc.) — never converted to scientific notation.
+  Sx, Ud, Dc, Cent, etc.) — never converted to scientific notation. See
+  [`number-suffixes.md`](./number-suffixes.md) for the full suffix legend and combination-suffix
+  notes (e.g. `QagCent`-style tiers past Centillion).
 - **Upgrade tables**: `| Upgrade | Level (snapshot) | Effect at MAX |`
 - **Mark item tables**: `| Item | Chance | Amount owned | Stat boost | Status |`
   - `Chance` = drop odds, or `Locked` once an item can no longer be rolled.
