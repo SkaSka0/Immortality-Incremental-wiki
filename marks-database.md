@@ -43,7 +43,20 @@ Stats: **Luck** (lowers gacha odds), **Bulk** (items opened per roll), **Speed**
 | Omniscience | 1/27.11Ud | 0 | *(TBD)* | *(TBD)* |
 
 ### Mark of Essence
-*(no data yet)*
+- **Currency roll:** Essence (100M/roll)
+- **Total opened (snapshot):** 1.69Ud
+
+| Item | Chance | Amount owned | Stat boost | Status |
+|---|---|---|---|---|
+| Fragment | Locked | 18.1M | *(TBD)* | MAX |
+| Shard | Locked | 6.47B | *(TBD)* | MAX |
+| Node | Locked | 7.75Sx | *(TBD)* | MAX |
+| Crest | Locked | 248.06Dc | *(TBD)* | MAX |
+| Ruby | 1/1.07 | 9.62Ud | *(TBD)* | MAX |
+| Nucleus | 1/14.37 | 707.41Dc | *(TBD)* | MAX |
+| Prism | 1/5.38K | 1.89Dc | *(TBD)* | MAX |
+| Eternal | 1/71.68B | 141.86Sp | *(TBD)* | MAX |
+| Sanguine | 1/222.96Sxvg | 0 | *(TBD)* | *(TBD)* |
 
 ### Mark of Soulfire
 *(no data yet)*
