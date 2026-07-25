@@ -46,9 +46,9 @@ fixed at 3)*.
 ## Essence
 *Layer 2*
 
-- **Reset:** *(no data yet)*
-- **Unlock requirement:** *(no data yet)*
-- **Example gain on reset:** *(no data yet)*
+- **Reset:** *N/A*
+- **Unlock requirement:** *N/A*
+- **Example gain on reset:** *N/A*
 - **Use of Essence points:** level up Essence Upgrades + roll gacha for **Mark of Essence**
 
 ### Essence Upgrades
