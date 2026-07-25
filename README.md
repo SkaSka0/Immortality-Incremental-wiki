@@ -13,23 +13,30 @@ of truth that an AI assistant (Claude) can read from and edit directly.
 
 | File | Contents |
 |---|---|
-| [`upgrades.md`](./upgrades.md) | Upgrade boards that stand alone outside any prestige layer (e.g. Qi Upgrades — the base layer before any prestige). |
-| [`prestige-layers.md`](./prestige-layers.md) | Each prestige layer (currency gained from resetting) + its own upgrade board, since they always come as a pair. Also tracks reset-group cascading (e.g. Insight → Essence → Soulfire) and Map groupings. |
-| [`marks-database.md`](./marks-database.md) | Catalog of all Marks (permanent gacha system) and their items, plus the global Stats Roll history (Luck/Bulk/Speed/Clone/MPS over time). |
+| [`map-1-mortal-realm.md`](./map-1-mortal-realm.md) | Map 1 — Mortal Realm. Base Qi Upgrades + prestige layers Insight, Essence, Soulfire, Karma (each with its own reset info + upgrade board), plus the map's Random Feature. |
+| [`map-2-spirit-realm.md`](./map-2-spirit-realm.md) | Map 2 — Spirit Realm. Prestige layers Stars, Nebulae, Quasar, plus the map's Random Feature. |
+| [`map-3-underworld.md`](./map-3-underworld.md) | Map 3 — Underworld. Prestige layers Miasma, Ash, Laws, plus the map's Random Feature. |
+| [`marks-database.md`](./marks-database.md) | Catalog of all Marks (permanent gacha system) and their items, plus the global Stats Roll history (Luck/Bulk/Speed/Clone/MPS over time). Stays separate from the per-map files. |
 
-More files may be added later (e.g. per-map random features, quests, events) — this table should
-be kept up to date whenever a new file is introduced.
+More map files may be added later as new maps are discovered/accessed (e.g. Immortal Realm,
+Infinite Forest) — this table should be kept up to date whenever a new file is introduced.
 
 ---
 
 ## Game structure (as currently understood)
 
 - **Maps** contain multiple **prestige layers**. Each prestige layer has its own currency,
-  upgrade board, and Mark.
+  upgrade board, and Mark. Each map file also holds one **Random Feature** section (per-map
+  random mechanic), placed at the bottom of the file — details still to be filled in as it's
+  explored.
 - **Reset groups** cascade — resetting at the last layer of a group resets all layers in that
-  group. Confirmed so far: Group 1 = Insight → Essence → Soulfire.
-- Known layers so far: `Insight → Essence → Soulfire → Karma` (Map 1), `Stars → Nebulae → Quasar`
-  (Map 2), `Miasma → Ash → Laws` (Map 3).
+  group. Confirmed so far: Group 1 = Insight → Essence → Soulfire (Map 1).
+- Known maps and their layers so far:
+  - **Map 1 — Mortal Realm**: Insight → Essence → Soulfire → Karma
+  - **Map 2 — Spirit Realm**: Stars → Nebulae → Quasar
+  - **Map 3 — Underworld**: Miasma → Ash → Laws
+  - **Immortal Realm**, **Infinite Forest** — map names known, but not yet reached/no layer
+    data yet.
 - **Marks** are permanent (not reset by prestige) and are rolled using their linked layer's
   currency.
 
@@ -60,8 +67,8 @@ as a guess — never presented as settled fact until confirmed.
 - Edit existing files directly rather than duplicating them.
 - If new info conflicts with what's already recorded, flag it and confirm before overwriting.
 - When adding a new entity (new Mark / layer / map), check whether it needs to be reflected in
-  more than one file (e.g. a new Mark usually touches both `marks-database.md` and
-  `prestige-layers.md`).
+  more than one file (e.g. a new Mark usually touches both `marks-database.md` and the
+  relevant `map-N-name.md` file).
 - Screenshots: if a value is ambiguous, cropped, blurry, or partially visible, don't guess —
   leave it as `*(TBD)*` until a clear source is available.
 
