@@ -114,10 +114,33 @@ fixed at 3)*.
 ## Karma
 *Layer 4*
 
-- **Reset:** *(no data yet)*
-- **Unlock requirement:** *(no data yet)*
-- **Example gain on reset:** *(no data yet)*
-- **Use of Karma points:** level up Karma Upgrades + roll gacha for **Mark of Karma**
+- **Mechanic:** Karma Meter — step on and hold a button to earn Karma every second while standing on it (different from the reset/convert mechanic used by Insight/Essence/Soulfire).
+- **Reset:** *N/A*
+- **Unlock requirement:** *N/A*
+- **Example gain on reset:** *N/A*
+- **Use of Karma points:** unlock **Karma Milestones** (stat boosts + feature unlocks, see table below) + roll gacha for **Mark of Karma**
+
+### Karma Milestones
+
+| Total Karma | Stat Boosts | Status |
+|---|---|---|
+| 50 | x2 Karma gain, x20 Soulfire, Karma gain doubles every 10x | Unlocked |
+| 250 | x250 Essence, x250 Soulfire, x1.5 Mark Speed, new Soulfire upgrade | Unlocked |
+| 1K | +1 Mark Clone, x1.35 Mark Luck, x150 Soulfire | Unlocked |
+| 10K | x3 Karma | Unlocked |
+| 1M | x67 Luck, x67K Qi, x25 Essence, x35 Soulfire | Unlocked |
+| 50B | x150 Luck, x15K Qi, x21 Soulfire | Unlocked |
+| 10T | x2 Mark Bulk, +1 Realm Bulk | Unlocked |
+| 50Qi | +1 Mark Clone, x250 Luck, x250 Qi | Unlocked |
+| 1No | x10K Qi, x1K Nebulae | Unlocked |
+| 500Dd | x3 Mark Speed, x4 Quasar, +1 Mark Clone | Unlocked |
+| 1Spd | Auto Karma | Unlocked |
+
+*Note: milestone thresholds above use suffixes not yet listed in `number-suffixes.md`
+("No", "Dd", "Spd") — flagged there as TBD pending confirmation of exact power-of-10. Also
+worth double-checking: the "1Spd" milestone suffix looks similar to, but is not identical to,
+the current Karma snapshot suffix "Spvg" — please confirm these are meant to be different
+tiers and not a typo.*
 
 ### Karma Upgrades
 *(no data yet)*
