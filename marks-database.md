@@ -61,7 +61,19 @@ Stats: **Luck** (lowers gacha odds), **Bulk** (items opened per roll), **Speed**
 | Sanguine | 1/222.96Sxvg | 0 | *(TBD)* | *(TBD)* |
 
 ### Mark of Soulfire
-*(no data yet)*
+- **Currency roll:** Soulfire (5K/roll)
+- **Total opened (snapshot):** 89.9Dc
+
+| Item | Chance | Amount owned | Stat boost | Status |
+|---|---|---|---|---|
+| Mote | Locked | 276.25M | *(TBD)* | MAX |
+| Kindling | Locked | 2.09T | *(TBD)* | MAX |
+| Wraith | Locked | 194.63Dc | *(TBD)* | MAX |
+| Pyre | 1/1.54 | 269.23Dc | *(TBD)* | MAX |
+| Brand | 1/2.91 | 110.78Dc | *(TBD)* | MAX |
+| Inferno | 1/215.05 | 1.5Dc | *(TBD)* | MAX |
+| Everflame | 1/17.92M | 17.96Oc | *(TBD)* | MAX |
+| Soulnova | 1/71.68Sp | 4.49B | *(TBD)* | MAX |
 
 ### Mark of Karma
 *(no data yet)*
