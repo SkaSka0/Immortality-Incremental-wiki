@@ -24,7 +24,7 @@ Stats: **Luck** (lowers gacha odds), **Bulk** (items opened per roll), **Speed**
 ---
 
 ## Map 1
-*Access requirement: (not recorded yet)*
+*Access requirement: none*
 
 ### Mark of Insight
 - **Currency roll:** Insight (250/roll)
