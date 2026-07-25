@@ -74,13 +74,40 @@ fixed at 3)*.
 ## Soulfire
 *Layer 3 (resetting here resets Insight + Essence + Soulfire all at once)*
 
-- **Reset:** *(no data yet)*
-- **Unlock requirement:** *(no data yet)*
-- **Example gain on reset:** *(no data yet)*
-- **Use of Soulfire points:** level up Soulfire Upgrades + roll gacha for **Mark of Soulfire**
+- **Reset:** Soul Forging resets Realm, Qi, Insight, Essence, and their upgrades for Soulfire. Soulfire gain is based on your current Essence.
+- **Unlock requirement:** 1Sx Essence *(read from screenshot — flag/confirm if this should be "15x" instead)*
+- **Example gain on reset (snapshot):** +18.32Nod Soulfire
+- **Use of Soulfire points:** level up Soulfire Upgrades + roll gacha for **Mark of Soulfire** (5K Soulfire/roll — see `marks-database.md`)
 
 ### Soulfire Upgrades
-*(no data yet)*
+
+| Upgrade | Level (snapshot) | Effect at MAX |
+|---|---|---|
+| More Essence | 70/70 (MAX) | x5.31Qad Essence |
+| More Luck | 50/50 (MAX) | x1.13Qa Luck |
+| More Qi | 50/50 (MAX) | x717.9Sx Qi |
+| Soulfire boosts Karma | 1/1 (MAX) | x798 Karma |
+| Unlock Automations | 1/1 (MAX) | Soul automations unlocked |
+
+### Soul Focused
+*Choose one mana to activate at a time — effect differs depending on which is active*
+
+| Focus | Effect |
+|---|---|
+| Essence Focus | x8 Essence, x2.75 Soulfire |
+| Qi Focus | x7 Damage (Feature) |
+| Luck Focus | x6 Beast Remnants, x2 Beast Core Chance (Feature) |
+
+### Soul Automations
+*Permanent — not reset by Soul Forging*
+
+| Upgrade | Level (snapshot) | Effect at MAX |
+|---|---|---|
+| Auto Breakthrough | 5/5 (MAX) | +5 Base Roll Attempts/s |
+| Auto Qi Upgrades | 1/1 (MAX) | Qi autobuy |
+| Passive Insight | 1/1 (MAX) | Passive Insight |
+| Auto Insight Upgrade | 1/1 (MAX) | Insight autobuy |
+| Auto Essence Upgrades | 1/1 (MAX) | Essence autobuy |
 
 ---
 
