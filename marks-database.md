@@ -17,7 +17,8 @@ Stats: **Luck** (lowers gacha odds), **Bulk** (items opened per roll), **Speed**
 
 | Date | Luck | Bulk | Speed | Clone | MPS |
 |---|---|---|---|---|---|
-| 24 Jul 2026 | x27.67K | x4.11Sp | 105.82B/s | 7 | 435.12Dc |
+| 24 Jul 2026 | x27.67K | 4.11Sp | 105.82B/s | 7 | 435.12Dc |
+| 25 jul 2026 | x27.9K | 5.63Sp | 117.79B/s | 8 | 662.63Dc |
 
 *Note: since these stats are global, "Total opened" per Mark likely progresses using this same shared MPS rate, not a separate rate per Mark.*
 
