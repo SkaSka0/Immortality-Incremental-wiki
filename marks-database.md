@@ -14,11 +14,12 @@ General format per item: **Item name → chance (Locked = "IMPOSSIBLE", can no l
 Stats: **Luck** (lowers gacha odds), **Bulk** (items opened per roll), **Speed** (rolls per second), **Clone** (parallel roll instances), **MPS** (Marks Per Second, combined result of all stats above).
 
 > Rule: this section keeps a full history. When new data comes in, ADD a new row below — never overwrite or delete older rows.
-
-| Date | Luck | Bulk | Speed | Clone | MPS |
-|---|---|---|---|---|---|
-| 24 Jul 2026 | x27.67K | 4.11Sp | 105.82B/s | 7 | 435.12Dc |
-| 25 jul 2026 | x27.9K | 5.63Sp | 117.79B/s | 8 | 662.63Dc |
+> **% Increase** = overall percent change vs. the immediately previous row, based on MPS (since MPS is already the combined result of all other stats). First snapshot has no prior row, so it's always `N/A`.
+ 
+| Date | Luck | Bulk | Speed | Clone | MPS | % Increase |
+|---|---|---|---|---|---|---|
+| 24 Jul 2026 | x27.67K | 4.11Sp | 105.82B/s | 7 | 435.12Dc | N/A |
+| 25 jul 2026 | x27.9K | 5.63Sp | 117.79B/s | 8 | 662.63Dc | +52.29% |
 
 *Note: since these stats are global, "Total opened" per Mark likely progresses using this same shared MPS rate, not a separate rate per Mark.*
 
