@@ -96,7 +96,7 @@ fixed at 3)*.
 |---|---|
 | Essence Focus | x8 Essence, x2.75 Soulfire |
 | Qi Focus | x7 Damage (Feature) |
-| Luck Focus | x6 Beast Remnants, x2 Beast Core Chance (Feature) |
+| Luck Focus | x6 Beast Remnants, x2 Beast Core Chance (Feature — confirmed: **Bear**, see Other Features section below) |
 
 ### Soul Automations
 *Permanent — not reset by Soul Forging*
@@ -142,10 +142,49 @@ worth double-checking: the "1Spd" milestone suffix looks similar to, but is not 
 the current Karma snapshot suffix "Spvg" — please confirm these are meant to be different
 tiers and not a typo.*
 
-### Karma Upgrades
-*(no data yet)*
-
 ---
 
-## Random Feature (Map 1)
-*(no data yet — to be filled in once explored in-game)*
+## Other Features (Map 1):
+### Bear
+
+*Confirmed connection: the **Luck Focus** effect in Soul Focused (Soulfire section above),
+"x6 Beast Remnants, x2 Beast Core Chance", boosts this feature.*
+
+- **Mechanic:** kill bears on a stage-based track to earn **Remnant** (currency used to level
+  up this feature's own upgrade board, Remnant Upgrades) and **Beast Core** items.
+- **Stage ranges:**
+  - Stage 1–100: **Lesser Bear** → drops **Lesser Beast Core**
+  - Stage 101–200: **Greater Bear** → drops **Greater Beast Core**
+  - *(TBD — whether stage range/naming continues past 200, not yet observed)*
+- **Progression:** defeating 10 bears on a stage clears it and unlocks the next stage.
+- **Stage Cleared timer:** when playing at your current **Highest Stage**, a countdown of
+  **~60 seconds** is shown next to "Stage Cleared" — the time limit to defeat 10 bears and
+  clear the stage.
+- **Per-stage scaling:** each stage increases bear HP, Remnant reward, and Beast Core chance.
+  Exact scaling formula is **unknown** (not derivable from data collected so far).
+- **Modifiers:** Beast Core chance and Remnant gain can be boosted by other multipliers/effects
+  from elsewhere in the game (e.g. Soul Focused → Luck Focus: x6 Beast Remnants, x2 Beast Core
+  Chance).
+- **Beast Core usage:** *(TBD — not yet confirmed what Lesser/Greater Beast Core are used for)*
+
+### Remnant Upgrades
+*Funded by Remnant*
+
+| Upgrade | Level (snapshot) | Effect at MAX |
+|---|---|---|
+| More Damage | 87/150 | x17.75T damage |
+| Faster Hunt Strikes | 30/30 (MAX) | 0.26s attack speed interval |
+| Longer Hunt Time | 25/25 (MAX) | 65s hunt time |
+| More Beast Remnants | 50/50 (MAX) | x1.08K Beast Remnant |
+| Apex Pursuit | 1/1 (MAX) | Qi boost based on highest beast stage |
+
+### Stage Snapshots
+
+| Date | Stage viewed | Bear Type | Defeated | Beast Core Chance | Highest Stage |
+|---|---|---|---|---|---|
+| 26 Jul 2026 | 150 | Lesser Bear | 10/10 | 9.59% | 156 |
+
+*Note: "Stage viewed" (navigated via Previous/Next, or jump via "To 1"/"To Max") may differ
+from the live "Highest Stage" — in this snapshot the viewed stage (150) is behind the actual
+highest stage reached (156), so the 9.59% Beast Core Chance and 10/10 Defeated values reflect
+stage 150 specifically, not necessarily the live highest stage.*
