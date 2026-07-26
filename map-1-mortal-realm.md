@@ -95,8 +95,8 @@ fixed at 3)*.
 | Focus | Effect |
 |---|---|
 | Essence Focus | x8 Essence, x2.75 Soulfire |
-| Qi Focus | x7 Damage (Feature) |
-| Luck Focus | x6 Beast Remnants, x2 Beast Core Chance (Feature — confirmed: **Bear**, see Other Features section below) |
+| Qi Focus | x7 Damage (Feature — confirmed: [Bear](#bear), see Other Features section below) |
+| Luck Focus | x6 Beast Remnants, x2 Beast Core Chance (Feature — confirmed: [Bear](#bear), see Other Features section below) |
 
 ### Soul Automations
 *Permanent — not reset by Soul Forging*
