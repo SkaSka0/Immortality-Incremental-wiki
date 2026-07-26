@@ -49,5 +49,5 @@ style as Map 1's Group 1)*
 
 ---
 
-## Random Feature (Map 3)
+## Other Features (Map 3)
 *(no data yet — to be filled in once explored in-game)*
