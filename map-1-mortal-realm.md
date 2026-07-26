@@ -165,7 +165,9 @@ tiers and not a typo.*
 - **Modifiers:** Beast Core chance and Remnant gain can be boosted by other multipliers/effects
   from elsewhere in the game (e.g. Soul Focused → Luck Focus: x6 Beast Remnants, x2 Beast Core
   Chance).
-- **Beast Core usage:** *(TBD — not yet confirmed what Lesser/Greater Beast Core are used for)*
+- **Beast Core usage:** confirmed — **Lesser Beast Core** is the currency used for the
+  **Bloodlines** feature (gacha roll cost + item upgrade cost). See [Bloodlines](#bloodlines)
+  below. *(Greater Beast Core usage still TBD.)*
 
 ### Remnant Upgrades
 *Funded by Remnant*
@@ -188,3 +190,48 @@ tiers and not a typo.*
 from the live "Highest Stage" — in this snapshot the viewed stage (150) is behind the actual
 highest stage reached (156), so the 9.59% Beast Core Chance and 10/10 Defeated values reflect
 stage 150 specifically, not necessarily the live highest stage.*
+
+---
+
+### Bloodlines
+
+- **Mechanic:** gacha system with 8 items (Bloodlines), each equippable one at a time. Only
+  the equipped Bloodline's effect is active. Each item can be leveled up independently
+  (0/10 → 10/10 MAX), with effect strength scaling per level — exact per-level values
+  *(TBD, only MAX-level effect confirmed so far, see Qilin below)*.
+- **Currency:** **Lesser Beast Core** (see [Bear](#bear) above) — used for both:
+  - **Roll** (gacha pull for Bloodline items) — cost seen: **5 Cores**/roll
+  - **Auto** (auto-roll) — cost seen: **5 Cores** (same rate as manual Roll, per snapshot)
+  - **Upgrade** (leveling up an owned Bloodline item, 0/10 → 10/10) — also funded by Lesser
+    Beast Core, exact cost per level *(TBD)*
+- **Roll rates (snapshot, 26 Jul 2026):**
+
+| Item | Rate |
+|---|---|
+| Wolf | 45.0% |
+| Serpent | 24.0% |
+| Crane | 14.0% |
+| Turtle | 8.0% |
+| Tiger | 4.5% |
+| Phoenix | 2.5% |
+| Qilin | 1.4% |
+| Dragon | 0.6% |
+
+- **Item effects:** unknown for all items except the currently equipped one (Qilin, snapshot
+  below) — some items not yet obtained, others obtained but not yet upgraded, so their
+  effects at various levels are not yet recorded.
+
+| Item | Level (snapshot) | Effect (at snapshot level) | Status |
+|---|---|---|---|
+| Wolf | *(no data yet)* | *(no data yet)* | *(no data yet)* |
+| Serpent | *(no data yet)* | *(no data yet)* | *(no data yet)* |
+| Crane | *(no data yet)* | *(no data yet)* | *(no data yet)* |
+| Turtle | *(no data yet)* | *(no data yet)* | *(no data yet)* |
+| Tiger | *(no data yet)* | *(no data yet)* | *(no data yet)* |
+| Phoenix | *(no data yet)* | *(no data yet)* | *(no data yet)* |
+| Qilin | 10/10 (MAX) | x4.5 W1 Stats, x5.4 Mark Bulk, x4.2 Mark Luck, x4.5 Mark Speed | Equipped, MAX |
+| Dragon | *(no data yet)* | *(no data yet)* | *(no data yet)* |
+
+*Note: "W1 Stats" as shown in-game for Qilin's effect — likely shorthand for "Map 1 Stats"
+(i.e. a blanket multiplier across Map 1 stats), but this hasn't been confirmed in-game yet,
+so keeping the exact in-game label as-is rather than expanding/renaming it.*
