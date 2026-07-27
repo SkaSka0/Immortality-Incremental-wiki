@@ -38,6 +38,20 @@ yet. Left out of the table above rather than guessed-in.)*
 
 ---
 
+## Unconfirmed / TBD suffixes
+
+These have shown up in in-game data but their exact power-of-10 (and in some cases, whether
+they're a real distinct tier vs. a typo/rendering issue) has not been confirmed yet.
+
+| Suffix | Seen so far | Notes |
+|---|---|---|
+| No | Karma Milestone "1No" (map-1-mortal-realm.md); Stats Roll Bulk "463.7No" (27 Jul 2026); Mark of Karma item Nirvana "150.56No" (27 Jul 2026) | Seen 3 times now, likely a real tier — but unclear if same as `Nod` (Nonillion, 10^30) or a distinct suffix. Needs confirmation (e.g. a help/settings screen, or comparing raw values against a known suffix). |
+| Dd | Mark of Karma items Mercy "1.65Dd" and Balance "1.2Dd" (27 Jul 2026) | Seen 2 times, same tier both times. Position in list (between Oc-tier and Ud-tier items) suggests it could sit somewhere in the 10^36–10^45 range (e.g. a Duodecillion-style tier), but this is a guess — not confirmed. |
+| Dd (Karma Milestone) | "500Dd" milestone (map-1-mortal-realm.md) | Also flagged there previously — worth checking if this is the same "Dd" as above. |
+| Spd | Karma Milestone "1Spd" (map-1-mortal-realm.md) | Possibly related to "Spvg" (Karma snapshot suffix) but not confirmed to be the same tier — flagged as possible typo/distinct tier, needs confirmation. |
+
+---
+
 ## Combination suffixes (beyond Cent)
 
 Combined suffixes: **`QiQagCent`** and **`SpQagCent`** (e.g. `434.84QiQagCent/sec`, `1.81SpQagCent`).
@@ -67,3 +81,5 @@ This suggests that past Centillion, the game starts **prefixing** Cent with anot
   settings/help screen, or two values whose ratio is known).
 - Full ordered list from Dc → Cent (many tiers likely missing from the table above).
 - Confirmed pattern for combination suffixes past Cent (see above).
+- Resolve the "No" and "Dd" suffixes in the Unconfirmed/TBD table above — both have now shown
+  up multiple times and likely need their own confirmed row once verified.
