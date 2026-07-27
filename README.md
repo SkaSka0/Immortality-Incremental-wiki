@@ -40,6 +40,12 @@ Infinite Forest) — this table should be kept up to date whenever a new file is
     data yet.
 - **Marks** are permanent (not reset by prestige) and are rolled using their linked layer's
   currency.
+- **`W<N> Stats`** (e.g. `W1 Stats`, `W2 Stats`): a blanket multiplier stat, seen on some item
+  effects (e.g. Bloodlines), that boosts *all* prestige-layer currencies belonging to Map N at
+  once — **confirmed for W1** (boosts Insight, Essence, Soulfire, Karma together). `W2 Stats`
+  and `W3 Stats` are expected to follow the same pattern (Stars/Nebulae/Quasar and
+  Miasma/Ash/Laws respectively), but this hasn't been directly observed in-game yet —
+  *(TBD for W2/W3, flagged as expected pattern only)*.
 
 Anything not yet confirmed in-game is marked `*(no data yet)*`, `*(TBD)*`, or explicitly flagged
 as a guess — never presented as settled fact until confirmed.
