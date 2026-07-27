@@ -145,7 +145,7 @@ tiers and not a typo.*
 ---
 
 ## Other Features (Map 1):
-### Bear
+### Bear Hunt
 
 *Confirmed connection: the **Luck Focus** effect in Soul Focused (Soulfire section above),
 "x6 Beast Remnants, x2 Beast Core Chance", boosts this feature.*
@@ -217,21 +217,24 @@ stage 150 specifically, not necessarily the live highest stage.*
 | Qilin | 1.4% |
 | Dragon | 0.6% |
 
-- **Item effects:** unknown for all items except the currently equipped one (Qilin, snapshot
-  below) — some items not yet obtained, others obtained but not yet upgraded, so their
-  effects at various levels are not yet recorded.
+- **Item effects:** all 8 items now confirmed at MAX level (10/10) — see table below.
+  Per-level scaling below MAX is still *(TBD)*, only the MAX-level effect has been recorded
+  for each item so far.
 
 | Item | Level (snapshot) | Effect (at snapshot level) | Status |
 |---|---|---|---|
-| Wolf | *(no data yet)* | *(no data yet)* | *(no data yet)* |
-| Serpent | *(no data yet)* | *(no data yet)* | *(no data yet)* |
-| Crane | *(no data yet)* | *(no data yet)* | *(no data yet)* |
-| Turtle | *(no data yet)* | *(no data yet)* | *(no data yet)* |
-| Tiger | *(no data yet)* | *(no data yet)* | *(no data yet)* |
-| Phoenix | *(no data yet)* | *(no data yet)* | *(no data yet)* |
-| Qilin | 10/10 (MAX) | x4.5 W1 Stats, x5.4 Mark Bulk, x4.2 Mark Luck, x4.5 Mark Speed | Equipped, MAX |
-| Dragon | *(no data yet)* | *(no data yet)* | *(no data yet)* |
+| Wolf | 10/10 (MAX) | x6.6 Luck | MAX |
+| Serpent | 10/10 (MAX) | x6.6 Qi, x6.6 Essence | MAX |
+| Crane | 10/10 (MAX) | x4.8 Mark Speed | MAX |
+| Turtle | 10/10 (MAX) | x4.5 Mark Bulk, x6.6 Luck, x4.5 Karma | MAX |
+| Tiger | 10/10 (MAX) | x9 Soulfire, x3.6 Mark Luck, x7.5 Essence | MAX |
+| Phoenix | 10/10 (MAX) | x9 Insight, x8.4 Soulfire, x7.5 Karma | MAX |
+| Qilin | 10/10 (MAX) | x4.5 W1 Stats, x5.4 Mark Bulk, x4.2 Mark Luck, x4.5 Mark Speed | MAX |
+| Dragon | 10/10 (MAX) | x6 W1 Stats, x6 Mark Bulk, x4.5 Mark Luck, x6 Mark Speed, +1 Mark Clone | Equipped, MAX |
 
-*Note: "W1 Stats" as shown in-game for Qilin's effect — likely shorthand for "Map 1 Stats"
-(i.e. a blanket multiplier across Map 1 stats), but this hasn't been confirmed in-game yet,
-so keeping the exact in-game label as-is rather than expanding/renaming it.*
+*Note: "W1 Stats" = blanket multiplier applied to all Map 1 currencies (Insight, Essence,
+Soulfire, Karma) — **confirmed by user**. General convention: `W<N> Stats` refers to a
+blanket multiplier across all prestige-layer currencies belonging to Map N (e.g. `W2 Stats`
+would cover Stars, Nebulae, Quasar; `W3 Stats` would cover Miasma, Ash, Laws) — this
+generalization itself is *(not yet directly observed in-game for W2/W3, flagged as expected
+pattern based on the confirmed W1 case)*.
