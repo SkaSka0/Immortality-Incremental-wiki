@@ -21,6 +21,7 @@ Stats: **Luck** (lowers gacha odds), **Bulk** (items opened per roll), **Speed**
 | 24 Jul 2026 | x27.67K | 4.11Sp | 105.82B/s | 7 | 435.12Dc | N/A |
 | 25 jul 2026 | x27.9K | 5.63Sp | 117.79B/s | 8 | 662.63Dc | +52.29% |
 | 26 Jul 2026 | x42.2K | 18.08Sp | 336.86B/s | 10 | 6.09Ud | +819.02% |
+| 27 Jul 2026 | x132.42K | 463.7No | 420.51T/s | 13 | 194.99Qad | +3.20×10¹²% |
 
 *Note: since these stats are global, "Total opened" per Mark likely progresses using this same shared MPS rate, not a separate rate per Mark.*
 
@@ -77,12 +78,25 @@ Stats: **Luck** (lowers gacha odds), **Bulk** (items opened per roll), **Speed**
 | Soulnova | 1/71.68Sp | 4.49B | *(TBD)* | MAX |
 
 ### Mark of Karma
-*(no data yet)*
+- **Currency roll:** Karma (50/roll)
+- **Total opened (snapshot):** 275.82Ud
+
+| Item | Chance | Amount owned | Stat boost | Status |
+|---|---|---|---|---|
+| Trace | Locked | 605.89M | x7 Qi, x7 Karma | MAX |
+| Ledger | Locked | 167.61Sx | x7 Qi, x5.5 Soulfire, x5.5 Karma | MAX |
+| Burden | Locked | 94.83Oc | x5.5 Qi, x10 Luck, x5.5 Karma | MAX |
+| Mercy | Locked | 1.65Dd | x29.5 Qi, x14.5 Luck, x8.5 Karma, x2.5 Remnant | MAX |
+| Balance | 1/1 | 1.2Dd | x29.5 Qi, x22 Luck, x7 Soulfire, x2.5 Karma | MAX |
+| Reckoning | 1/226.83 | 5.01Ud | x56.5 Qi, x19 Luck, x23.5 Essence, x2.5 Karma | MAX |
+| Samsara | 1/193.64K | 5.87Dc | x18.75K Qi, x187 Luck, x4 Karma, x4 Mark Bulk, x2.5 Mark Speed | MAX |
+| Nirvana | 1/7.55M | 150.56No | x18.75K Qi, x562 Luck, x19 Karma, x4 Stars, x2.5 Mark Bulk | MAX |
+| Revenge | 1/28.32Ud | 389.27B | x2 Remnant, x1.5 Damage, +2 Mark Clone | MAX |
 
 ---
 
 ## Map 2
-*Access requirement: (not recorded yet)*
+*Access requirement: Level 150*
 
 ### Mark of Stars
 *(no data yet)*
@@ -96,13 +110,13 @@ Stats: **Luck** (lowers gacha odds), **Bulk** (items opened per roll), **Speed**
 ---
 
 ## Map 3
-*Access requirement: (not recorded yet) — currently active map being accessed*
+*Access requirement: Level 240*
 
 ### Mark of Miasma
 *(no data yet)*
 
 ### Mark of Ash
-*(no item data yet — currently active Mark being rolled)*
+*(no item data yet)*
 
 ### Mark of Laws
 *(no data yet)*
