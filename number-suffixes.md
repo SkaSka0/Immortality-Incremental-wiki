@@ -39,11 +39,6 @@ sum all their $n$ values.
 | Octo | Oc | 8 | 10^27 |
 | Novem | No | 9 | 10^30 |
 
-> Note: Units prefixes are normally only used **combined** with Tens/Hundreds (e.g.
-> "Un" + "Decillion" = **Un**decillion). The Exponent column above shows what the formula
-> gives for that prefix's $n$ value alone, for quick reference/consistency — it does not
-> imply a standalone suffix name like "Unillion".
-
 ### 2. Tens
 
 | Prefix Name | Abbreviation | $n$ Value | Exponent (10^x) |
