@@ -2,76 +2,119 @@
 
 > Reference for the suffix notation used on large numbers throughout this wiki (Qi, currency
 > amounts, Mark item counts, upgrade effects, etc.). Numbers are always recorded using the
-> game's own suffix, never converted to scientific notation.
-> 
-> *Note: This table follows the standard short-scale incremental convention. See the Editing
-> rules below for how differences between standard and in-game suffix naming are recorded.*
+> game's own suffix, never converted to plain scientific notation.
+>
+> Instead of maintaining a long, ever-growing list of every individual suffix (the list would
+> get extremely long past Centillion), this file records the **short-scale naming formula**
+> below, plus a Latin prefix reference table. Any suffix — no matter how high the tier — can
+> be decoded/constructed on demand from this formula.
 
 ---
 
-## Suffixes List
+## Short Scale Formula
 
-This table contains the complete, sequential progression of large number suffixes based on the standard short-scale incremental-game numbering convention.
+To find the exponent ($10^x$) for a name ending in **-illion**, use:
 
-| Suffix | Full name | ~10^n |
-|---|---|---|
-| K | Thousand | 10^3 |
-| M | Million | 10^6 |
-| B | Billion | 10^9 |
-| T | Trillion | 10^12 |
-| Qa | Quadrillion | 10^15 |
-| Qi | Quintillion | 10^18 |
-| Sx | Sextillion | 10^21 |
-| Sp | Septillion | 10^24 |
-| Oc | Octillion | 10^27 |
-| No | Nonillion | 10^30 |
-| Dc | Decillion | 10^33 |
-| Ud | Undecillion | 10^36 |
-| Dd | Duodecillion | 10^39 |
-| Td | Tredecillion | 10^42 |
-| Qad | Quattuordecillion | 10^45 |
-| Qid | Quindecillion | 10^48 |
-| Sxd | Sexdecillion | 10^51 |
-| Spd / SpDc | Septendecillion | 10^54 |
-| Ocd | Octodecillion | 10^57 |
-| Nvd / Nod | Novemdecillion | 10^60 |
-| Vg | Vigintillion | 10^63 |
-| Uvg | Unvigintillion | 10^66 |
-| Dvg | Duovigintillion | 10^69 |
-| Tvg | Tresvigintillion | 10^72 |
-| Qavg | Quattuorvigintillion | 10^75 |
-| Qivg | Quinvigintillion | 10^78 |
-| Sxvg | Sexvigintillion | 10^81 |
-| Spvg | Septenvigintillion | 10^84 |
-| Ocvg | Octovigintillion | 10^87 |
-| Novg | Novemvigintillion | 10^90 |
-| Tg | Trigintillion | 10^93 |
-| Utg | Untrigintillion | 10^96 |
-| Dtg | Duotrigintillion | 10^99 |
-| Cent | Centillion | 10^303 |
+$$\text{Exponent} = 3n + 3$$
 
-> **Editing rules:**
-> - This table must always be kept sorted from **smallest to largest ~10^n** — never by discovery order or alphabetically. Whenever a new suffix is inserted, re-sort the whole table by ~10^n.
-> - Where an in-game suffix name is slightly different from the standard short-scale abbreviation, both must be listed in the same cell using the format `Standard / In-Game` (standard abbreviation first, then the in-game observed abbreviation, separated by ` / `) — e.g. `Spd / SpDc`. This format must be used consistently for any future entries added to this table.
+- **$n$** = the total combined index value of all Latin prefixes used (Units + Tens + Hundreds).
 
 ---
 
-## Combination Suffixes (beyond Cent)
+## Latin Prefix Reference Table
 
-Combined suffixes: **`QiQagCent`** and **`SpQagCent`** (e.g. `434.84QiQagCent/sec`, `1.81SpQagCent`).
+Combine prefixes in the order **Units + Tens + Hundreds** to form the full number name, then
+sum all their $n$ values.
 
-This suggests that past Centillion, the game starts **prefixing** Cent with another suffix
-(`Qag` in this case) to form a higher tier — similar to how spreadsheet columns go
-`A, B, ... Z, AA, AB, ...`.
+### 1. Units
 
-- Possible reading: `Qag` = its own suffix tier (maybe "Quadragintillion", ~10^123 in standard notation?) combined with Cent as `[prefix]Cent`, where prefix cycles through the base suffix list again (Qi, Sp, Oc, ... ) each representing a step up from Centillion.
-- Need at least 2–3 more examples at different magnitudes (ideally with visible relative ordering, e.g. does `QiQagCent` come before or after `SpQagCent`?) to lock in the actual power-of-10 pattern.
+| Prefix Name | Abbreviation | $n$ Value | Exponent (10^x) |
+|---|---|---|---|
+| Un | Un | 1 | 10^6 |
+| Duo | Du | 2 | 10^9 |
+| Tre | Tr | 3 | 10^12 |
+| Quattuor | Qa | 4 | 10^15 |
+| Quin | Qi | 5 | 10^18 |
+| Sex | Sx | 6 | 10^21 |
+| Septem | Sp | 7 | 10^24 |
+| Octo | Oc | 8 | 10^27 |
+| Novem | No | 9 | 10^30 |
 
-**Do not use this section to infer exact values yet — flag any `...Cent` combo suffix as `*(TBD)*` until the pattern is confirmed.**
+> Note: Units prefixes are normally only used **combined** with Tens/Hundreds (e.g.
+> "Un" + "Decillion" = **Un**decillion). The Exponent column above shows what the formula
+> gives for that prefix's $n$ value alone, for quick reference/consistency — it does not
+> imply a standalone suffix name like "Unillion".
+
+### 2. Tens
+
+| Prefix Name | Abbreviation | $n$ Value | Exponent (10^x) |
+|---|---|---|---|
+| Decillion | Dc | 10 | 10^33 |
+| Vigintillion | Vg | 20 | 10^63 |
+| Trigintillion | Tg | 30 | 10^93 |
+| Quadragintillion | Qg | 40 | 10^123 |
+| Quintagintillion | Pg | 50 | 10^153 |
+| Sexagintillion | Sg | 60 | 10^183 |
+| Septuagintillion | St | 70 | 10^213 |
+| Octogintillion | Og | 80 | 10^243 |
+| Nonagintillion | Ng | 90 | 10^273 |
+
+### 3. Hundreds
+
+| Prefix Name | Abbreviation | $n$ Value | Exponent (10^x) |
+|---|---|---|---|
+| Centillion | Ct / Cent | 100 | 10^303 |
+| Ducentillion | Dc | 200 | 10^603 |
+| Trecentillion | Tc | 300 | 10^903 |
+| Quadringentillion | Qd | 400 | 10^1203 |
+| Quingentillion | Qn | 500 | 10^1503 |
+| Sescentillion | Ss | 600 | 10^1803 |
+| Septingentillion | Si | 700 | 10^2103 |
+| Octingentillion | Ot | 800 | 10^2403 |
+| Nongentillion | Nn | 900 | 10^2703 |
+
+---
+
+## Worked Examples
+
+### Example 1: Centillion (Cent)
+1. Find $n$: Centillion → $n = 100$
+2. Apply formula: $\text{Exponent} = 3(100) + 3 = 303$
+3. Result: Cent = **$10^{303}$**
+
+### Example 2: Combination UnVgCt (Unviginticentillion)
+1. Find $n$ per part:
+   - Un (Units) = 1
+   - Vigintillion (Tens) = 20
+   - Centillion (Hundreds) = 100
+   - Total $n = 1 + 20 + 100 = 121$
+2. Apply formula: $\text{Exponent} = 3(121) + 3 = 366$
+3. Result: UnVgCt = **$10^{366}$**
+
+### Example 3: SpVg (Septemvigintillion)
+1. Find $n$ per part:
+   - Septem (Units) = 7
+   - Vigintillion (Tens) = 20
+   - Total $n = 7 + 20 = 27$
+2. Apply formula: $\text{Exponent} = 3(27) + 3 = 84$
+3. Result: SpVg = **$10^{84}$**
+
+---
+
+## Editing Rules
+
+- Where an in-game suffix name differs slightly from the standard short-scale abbreviation
+  above, note both in the format `Standard / In-Game` — e.g. `Spd / SpDc` — wherever that
+  suffix is actually used in the wiki (upgrade tables, snapshots, etc.).
+- Do not re-add a full sequential suffix list to this file — use the formula + prefix table
+  above to decode/construct any suffix as needed.
+- Flag any suffix or combination suffix as `*(TBD)*` in the relevant data table until its
+  exponent has been confirmed via the formula above (or confirmed directly by the user).
 
 ---
 
 ## Open Questions
 
-- Full ordered list from Tg → Cent (many tiers are structurally missing from the table above due to the massive gap up to 10^303).
-- Confirmed pattern for combination suffixes past Cent (see above).
+- Confirmed in-game examples of combination suffixes past Centillion (e.g. `QiQagCent`,
+  `SpQagCent`) still need their exact prefix breakdown matched against the table above to
+  lock in the pattern — flag as `*(TBD)*` in data tables until confirmed.
