@@ -63,7 +63,7 @@ sum all their $n$ values.
 | Prefix Name | Abbreviation | $n$ Value | Exponent (10^x) |
 |---|---|---|---|
 | Centillion | Ct / Cent | 100 | 10^303 |
-| Ducentillion | Dc | 200 | 10^603 |
+| Ducentillion | Duc | 200 | 10^603 |
 | Trecentillion | Tc | 300 | 10^903 |
 | Quadringentillion | Qd | 400 | 10^1203 |
 | Quingentillion | Qn | 500 | 10^1503 |
