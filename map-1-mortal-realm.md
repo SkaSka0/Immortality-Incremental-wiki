@@ -136,12 +136,6 @@ fixed at 3)*.
 | 500Dd | x3 Mark Speed, x4 Quasar, +1 Mark Clone | Unlocked |
 | 1Spd | Auto Karma | Unlocked |
 
-*Note: milestone thresholds above use suffixes not yet listed in `number-suffixes.md`
-("No", "Dd", "Spd") — flagged there as TBD pending confirmation of exact power-of-10. Also
-worth double-checking: the "1Spd" milestone suffix looks similar to, but is not identical to,
-the current Karma snapshot suffix "Spvg" — please confirm these are meant to be different
-tiers and not a typo.*
-
 ---
 
 ## Other Features (Map 1):
@@ -300,3 +294,21 @@ wiki since Map 4 has no dedicated file yet. Confirmed pattern: Hidden Providence
 found in one map but require a currency belonging to a different map — this is new, not seen
 elsewhere in the wiki (all other Mark/upgrade costs so far use only the map's own
 currencies).*
+
+---
+
+## Suffix Breakdown (Map 1 — Theory, unconfirmed)
+
+*Breakdown below is the user's own theory of how each Map-1-specific suffix decomposes into
+Latin prefixes (per the formula in `number-suffixes.md`: Exponent = 3n + 3). Marked as
+**theory**, not settled fact, until confirmed. This table is kept local to Map 1 only — it is
+not merged into `number-suffixes.md`, which stays a general-purpose reference.*
+
+| Suffix | Appears in (context) | Theorized breakdown | n (sum) | Exponent (10^x) |
+|---|---|---|---|---|
+| Uvg | Insight — Example gain on reset (253.94Uvg) | Un (1) + Vg (20) | 21 | 10^66 |
+| Nod | Soulfire — Example gain on reset (18.32Nod) | No (9) + Dc/Decillion (10) | 19 | 10^60 |
+| Qad | Soulfire Upgrades — "More Essence" effect (x5.31Qad) | Qa (4) + Dc/Decillion (10) | 14 | 10^45 |
+| Dd | Karma Milestone threshold (500Dd) | Du (2) + Dc/Decillion (10) | 12 | 10^39 |
+| Spd | Karma Milestone threshold (1Spd) | Sp (7) + Dc/Decillion (10) | 17 | 10^54 |
+| Spvg | Referenced in Karma Milestones note (compared to Spd) | Sp (7) + Vg (20) | 27 | 10^84 |
