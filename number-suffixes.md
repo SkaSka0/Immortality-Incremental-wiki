@@ -4,7 +4,8 @@
 > amounts, Mark item counts, upgrade effects, etc.). Numbers are always recorded using the
 > game's own suffix, never converted to scientific notation.
 > 
-> *Note: This table follows the standard short-scale incremental convention. Where the standard notation and observed in-game naming differ slightly, both are listed using the `Standard / In-Game` format.*
+> *Note: This table follows the standard short-scale incremental convention. See the Editing
+> rules below for how differences between standard and in-game suffix naming are recorded.*
 
 ---
 
@@ -49,7 +50,9 @@ This table contains the complete, sequential progression of large number suffixe
 | Dtg | Duotrigintillion | 10^99 |
 | Cent | Centillion | 10^303 |
 
-> **Editing rule:** this table must always be kept sorted from **smallest to largest ~10^n** — never by discovery order or alphabetically. Whenever a new suffix is inserted, re-sort the whole table by ~10^n.
+> **Editing rules:**
+> - This table must always be kept sorted from **smallest to largest ~10^n** — never by discovery order or alphabetically. Whenever a new suffix is inserted, re-sort the whole table by ~10^n.
+> - Where an in-game suffix name is slightly different from the standard short-scale abbreviation, both must be listed in the same cell using the format `Standard / In-Game` (standard abbreviation first, then the in-game observed abbreviation, separated by ` / `) — e.g. `Spd / SpDc`. This format must be used consistently for any future entries added to this table.
 
 ---
 
