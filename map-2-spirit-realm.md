@@ -101,5 +101,5 @@ style as Map 1's Group 1)*
 
 ---
 
-## Random Feature (Map 2)
+## Other Features (Map 2)
 *(no data yet — to be filled in once explored in-game)*
