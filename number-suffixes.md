@@ -23,7 +23,7 @@ This table contains the complete, sequential progression of large number suffixe
 | Sx | Sextillion | 10^21 |
 | Sp | Septillion | 10^24 |
 | Oc | Octillion | 10^27 |
-| Nod / No | Nonillion | 10^30 |
+| No | Nonillion | 10^30 |
 | Dc | Decillion | 10^33 |
 | Ud | Undecillion | 10^36 |
 | Dd | Duodecillion | 10^39 |
