@@ -1,8 +1,7 @@
 # Number Suffixes Legend
 
 > Reference for the suffix notation used on large numbers throughout this wiki (Qi, currency
-> amounts, Mark item counts, upgrade effects, etc.). Numbers are always recorded using the
-> game's own suffix, never converted to plain scientific notation.
+> amounts, Mark item counts, upgrade effects, etc.).
 >
 > Instead of maintaining a long, ever-growing list of every individual suffix (the list would
 > get extremely long past Centillion), this file records the **short-scale naming formula**
