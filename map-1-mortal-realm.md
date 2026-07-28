@@ -271,3 +271,32 @@ blanket multiplier across all prestige-layer currencies belonging to Map N (e.g.
 would cover Stars, Nebulae, Quasar; `W3 Stats` would cover Miasma, Ash, Laws) — this
 generalization itself is *(not yet directly observed in-game for W2/W3, flagged as expected
 pattern based on the confirmed W1 case)*.
+
+---
+
+### Hidden Providence
+
+- **Mechanic:** a hidden, one-time-purchase feature — one item found per map so far. No
+  upgrade progression (not 0/10 like Bloodlines); each item is a single purchase (0/1 → 1/1
+  MAX). Effect is fixed at MAX, no per-level scaling.
+- **Currency:** each item's cost uses a **different map's own currency**, not necessarily the
+  map it's found in — **confirmed by user**: the item found in Map 1 costs **Stars** (Map 2's
+  layer-1 currency), and a separate item (found in Map 4, name/location TBD — see note below)
+  costs **Divinity** (Map 4's currency, not yet documented elsewhere in this wiki).
+- **Effect pattern (early signal, not yet confirmed as fixed rule):** effects seen so far touch
+  either specific stats (Remnants, Damage, Beast Core Drop) or a blanket **all-Stats** boost
+  (x1 → x2 Stats) — exact scope of "Stats" *(TBD, possibly Luck/Bulk/Speed/Clone/MPS from the
+  Stats Roll (Global) system, unconfirmed)*.
+
+| Item | Cost | Stat boost | Level |
+|---|---|---|---|
+| Hunter | *(TBD — Stars quantity forgotten)* Stars | x2 Remnants, x2 Damage, +1 Base Beast Core Drop | 1/1 (MAX) |
+| Hegemony | 10Qa Divinity | x1 Stats → x2 Stats | 0/1 |
+
+*Note: "Stars" (Hunter) and "Divinity" (Hegemony) are both currencies that belong to **other
+maps**, not Map 1 — confirmed by user. Stars is Map 2's layer-1 currency (see
+`map-2-spirit-realm.md`); Divinity is Map 4's currency, not yet documented elsewhere in this
+wiki since Map 4 has no dedicated file yet. Confirmed pattern: Hidden Providence items can be
+found in one map but require a currency belonging to a different map — this is new, not seen
+elsewhere in the wiki (all other Mark/upgrade costs so far use only the map's own
+currencies).*
