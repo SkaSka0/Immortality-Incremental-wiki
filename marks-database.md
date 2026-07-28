@@ -99,7 +99,20 @@ Stats: **Luck** (lowers gacha odds), **Bulk** (items opened per roll), **Speed**
 *Access requirement: Level 150*
 
 ### Mark of Stars
-*(no data yet)*
+- **Currency roll:** Stars (2K/roll)
+- **Total opened (snapshot):** 338.28Sx
+  
+| Item | Chance | Amount owned | Stat boost | Status |
+|---|---|---|---|---|
+| Spark | Locked (IMPOSSIBLE) | x2Sp | *(TBD)* | MAX |
+| Stardust | 1/1 | x32.78Sx | *(TBD)* | MAX |
+| Astral | 1/2.12K | x2.03Qi | *(TBD)* | MAX |
+| Comet | 1/262.81K | x16.37Qa | *(TBD)* | MAX |
+| Radiant | 1/212.41M | x20.25T | *(TBD)* | MAX |
+| Celestial | 1/18.5B | x232.52B | *(TBD)* | MAX |
+| Supernova | 1/2.68T | x1.61B | *(TBD)* | MAX |
+| Genesis | 1/131.24T | x32.78M | *(TBD)* | MAX |
+
 
 ### Mark of Nebulae
 *(no data yet)*
