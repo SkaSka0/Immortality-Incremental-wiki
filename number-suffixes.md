@@ -99,22 +99,5 @@ sum all their $n$ values.
 2. Apply formula: $\text{Exponent} = 3(27) + 3 = 84$
 3. Result: SpVg = **$10^{84}$**
 
----
-
-## Editing Rules
-
-- Where an in-game suffix name differs slightly from the standard short-scale abbreviation
-  above, note both in the format `Standard / In-Game` — e.g. `Spd / SpDc` — wherever that
-  suffix is actually used in the wiki (upgrade tables, snapshots, etc.).
-- Do not re-add a full sequential suffix list to this file — use the formula + prefix table
-  above to decode/construct any suffix as needed.
-- Flag any suffix or combination suffix as `*(TBD)*` in the relevant data table until its
-  exponent has been confirmed via the formula above (or confirmed directly by the user).
-
----
-
-## Open Questions
-
-- Confirmed in-game examples of combination suffixes past Centillion (e.g. `QiQagCent`,
   `SpQagCent`) still need their exact prefix breakdown matched against the table above to
   lock in the pattern — flag as `*(TBD)*` in data tables until confirmed.
