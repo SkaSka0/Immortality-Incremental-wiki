@@ -133,6 +133,17 @@ Stats: **Luck** (lowers gacha odds), **Bulk** (items opened per roll), **Speed**
 ## Map 4
 *Access requirement: Level 560*
 
+### Mark of Faith
+*(no data yet)*
+
+### Mark of Divinity
+*(no data yet)*
+
+---
+
+## Map 5
+*Access requirement: Level 1535*
+
 ---
 
 *Note: the Mark-per-Map grouping above has been confirmed (Map 1: Insight, Essence, Soulfire, Karma / Map 2: Stars, Nebulae, Quasar / Map 3: Miasma, Ash, Laws). Stats/item data per Mark will be sent later.*
