@@ -29,7 +29,7 @@ fixed at 3)*.
 - **Reset:** Realm, Qi, and Qi Upgrades → converted into **Insight** points
 - **Unlock requirement:** Realm **Foundation V [#10]**
 - **Example gain on reset (snapshot):** +253.94Uvg Insight
-- **Use of Insight points:** level up Insight Upgrades (below) + roll gacha for **Mark of Insight** (250 Insight/roll — see `marks-database.md`)
+- **Use of Insight points:** level up Insight Upgrades (below) + roll gacha for **Mark of Insight**
 - **Reset effect:** cascading — resetting at the group's last layer (Soulfire) will also reset Insight
 
 ### Insight Upgrades
