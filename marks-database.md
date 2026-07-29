@@ -1,6 +1,6 @@
 # Marks Database
 
-> Catalog of all Marks (permanent gacha system) and their items. Marks are not reset by any prestige layer — once obtained, they're permanent. Each Mark is tied to one prestige layer as the source of its roll currency (see `prestige-layers.md`).
+> Catalog of all Marks (permanent gacha system) and their items. Marks are not reset by any prestige layer — once obtained, they're permanent. Each Mark is tied to one prestige layer as the source of its roll currency.
 
 Each map contains 3-4 Marks that can be accessed/rolled. Map access requirements are recorded here once known.
 
