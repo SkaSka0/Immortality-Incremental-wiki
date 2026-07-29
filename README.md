@@ -5,7 +5,7 @@ incremental game. Tracks upgrade boards, prestige layers, and the Marks gacha sy
 discovered in-game.
 
 This repo exists mainly to give the data a proper version history (via git) and a stable source
-of truth that an AI assistant (Claude) can read from and edit directly.
+of truth that an AI assistant can read from and edit directly.
 
 ---
 
