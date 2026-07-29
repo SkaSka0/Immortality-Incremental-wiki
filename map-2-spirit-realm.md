@@ -44,16 +44,28 @@ style as Map 1's Group 1)*
 
 ---
 
-## Nebulae
+## Nebula
 *Layer 2*
 
-- **Reset:** *(no data yet)*
-- **Unlock requirement:** *(no data yet)*
-- **Example gain on reset:** *(no data yet)*
+- **Reset:** The nebula reset layer shatters your origin, resetting previous progress except
+  for Jade, Jade Upgrades, Marks, Beast Hunt, Body Tempering, Karma Milestones, and permanent
+  automation or unlock upgrades, in exchange for Nebulae.
+- **Unlock requirement:** 1Sp Stars
+- **Example gain on reset (snapshot):** +22.37Tvg Nebulae
 - **Use of Nebulae points:** level up Nebulae Upgrades + roll gacha for **Mark of Nebulae**
+- **Currency:** Nebulae
 
-### Nebulae Upgrades
-*(no data yet)*
+### Nebula Upgrades
+
+| Upgrade | Level (snapshot) | Effect at MAX |
+|---|---|---|
+| More Nebulae | 55/55 (MAX) | x109.67T Nebulae |
+| More Stars | 50/50 (MAX) | x5.8T Stars |
+| More Luck | 50/50 (MAX) | 1.13Qa Luck |
+| More Qi | 50/50 (MAX) | x88.82Dc Qi |
+| More Karma Milestones | 3/3 (MAX) | 5 Karma Milestones (unlocks new Karma Milestone) |
+| Mark Boost | 50/50 (MAX) | 1.5 Mark Effects |
+| Unlock Quasar | 1/1 (MAX) | Unlocks the Quasar layer |
 
 ---
 
