@@ -13,7 +13,8 @@ fixed at 3)*.
 ---
 
 ## Qi Upgrades
-*Base layer: Realm/Qi (before any prestige)*
+- *Base layer: Realm/Qi (before any prestige)*
+- **Currency:** Qi
 
 | Upgrade | Level (snapshot) | Effect at MAX |
 |---|---|---|
@@ -31,6 +32,7 @@ fixed at 3)*.
 - **Example gain on reset (snapshot):** +253.94Uvg Insight
 - **Use of Insight points:** level up Insight Upgrades (below) + roll gacha for **Mark of Insight**
 - **Reset effect:** cascading — resetting at the group's last layer (Soulfire) will also reset Insight
+- **Currency:** Insight
 
 ### Insight Upgrades
 
@@ -50,6 +52,7 @@ fixed at 3)*.
 - **Unlock requirement:** *N/A*
 - **Example gain on reset:** *N/A*
 - **Use of Essence points:** level up Essence Upgrades + roll gacha for **Mark of Essence**
+- **Currency:** Essence
 
 ### Essence Upgrades
 
@@ -78,6 +81,7 @@ fixed at 3)*.
 - **Unlock requirement:** 1Sx Essence
 - **Example gain on reset (snapshot):** +18.32Nod Soulfire
 - **Use of Soulfire points:** level up Soulfire Upgrades + roll gacha for **Mark of Soulfire** (5K Soulfire/roll — see `marks-database.md`)
+- **Currency:** Soulfire
 
 ### Soulfire Upgrades
 
@@ -119,6 +123,7 @@ fixed at 3)*.
 - **Unlock requirement:** *N/A*
 - **Example gain on reset:** *N/A*
 - **Use of Karma points:** unlock **Karma Milestones** (stat boosts + feature unlocks, see table below) + roll gacha for **Mark of Karma**
+- **Currency:** Karma
 
 ### Karma Milestones
 
@@ -197,7 +202,7 @@ more to be added later as they're sent.*
   below. *(Greater Beast Core usage still TBD.)*
 
 ### Remnant Upgrades
-*Funded by Remnant*
+**Currency:** Remnant
 
 | Upgrade | Level (snapshot) | Effect at MAX |
 |---|---|---|
@@ -307,8 +312,8 @@ not merged into `number-suffixes.md`, which stays a general-purpose reference.*
 | Suffix | Appears in (context) | Theorized breakdown | n (sum) | Exponent (10^x) |
 |---|---|---|---|---|
 | Uvg | Insight — Example gain on reset (253.94Uvg) | Un (1) + Vg (20) | 21 | 10^66 |
-| Nod | Soulfire — Example gain on reset (18.32Nod) | No (9) + Dc/Decillion (10) | 19 | 10^60 |
-| Qad | Soulfire Upgrades — "More Essence" effect (x5.31Qad) | Qa (4) + Dc/Decillion (10) | 14 | 10^45 |
-| Dd | Karma Milestone threshold (500Dd) | Du (2) + Dc/Decillion (10) | 12 | 10^39 |
-| Spd | Karma Milestone threshold (1Spd) | Sp (7) + Dc/Decillion (10) | 17 | 10^54 |
+| Nod | Soulfire — Example gain on reset (18.32Nod) | No (9) + Dc (10) | 19 | 10^60 |
+| Qad | Soulfire Upgrades — "More Essence" effect (x5.31Qad) | Qa (4) + Dc (10) | 14 | 10^45 |
+| Dd | Karma Milestone threshold (500Dd) | Du (2) + Dc (10) | 12 | 10^39 |
+| Spd | Karma Milestone threshold (1Spd) | Sp (7) + Dc (10) | 17 | 10^54 |
 | Spvg | Referenced in Karma Milestones note (compared to Spd) | Sp (7) + Vg (20) | 27 | 10^84 |
