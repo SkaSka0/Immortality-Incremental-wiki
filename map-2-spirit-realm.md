@@ -13,9 +13,9 @@ style as Map 1's Group 1)*
 ## Stars
 *Layer 1*
 
-- **Reset:** *(no data yet)*
-- **Unlock requirement:** *(no data yet)*
-- **Example gain on reset:** *(no data yet)*
+- **Reset:** *None*
+- **Unlock requirement:** *None*
+- **Example gain on reset:** *None*
 - **Use of Stars points:** level up Stars Upgrades + roll gacha for **Mark of Stars**
 - **Mechanic:** walk over colored balls that spawn within a designated platform to collect
   Stars. Yellow balls grant x5 Stars, Orange balls grant x25 Stars, and Red balls grant x100
