@@ -113,7 +113,6 @@ Stats: **Luck** (lowers gacha odds), **Bulk** (items opened per roll), **Speed**
 | Supernova | 1/2.68T | x1.61B | *(TBD)* | MAX |
 | Genesis | 1/131.24T | x32.78M | *(TBD)* | MAX |
 
-
 ### Mark of Nebulae
 *(no data yet)*
 
@@ -133,6 +132,11 @@ Stats: **Luck** (lowers gacha odds), **Bulk** (items opened per roll), **Speed**
 
 ### Mark of Laws
 *(no data yet)*
+
+---
+
+## Map 4
+*Access requirement: Level 560*
 
 ---
 
