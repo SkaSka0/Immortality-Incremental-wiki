@@ -316,4 +316,3 @@ not merged into `number-suffixes.md`, which stays a general-purpose reference.*
 | Qad | Soulfire Upgrades — "More Essence" effect (x5.31Qad) | Qa (4) + Dc (10) | 14 | 10^45 |
 | Dd | Karma Milestone threshold (500Dd) | Du (2) + Dc (10) | 12 | 10^39 |
 | Spd | Karma Milestone threshold (1Spd) | Sp (7) + Dc (10) | 17 | 10^54 |
-| Spvg | Referenced in Karma Milestones note (compared to Spd) | Sp (7) + Vg (20) | 27 | 10^84 |
