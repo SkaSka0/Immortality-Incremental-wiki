@@ -25,6 +25,7 @@ Stats: **Luck** (lowers gacha odds), **Bulk** (items opened per roll), **Speed**
 | 28 Jul 2026 | x133.47K | 86.85Dc | 3.17Qa/s | 13 | 275.34Qid | +141,107% |
 | 29 Jul 2026 | x190.49K | 968.38Dc | 150.97Qa/s | 15 | 146.19Sxd | +52,994% |
 | 30 Jul 2026 | x11.88M | 89.38Td | 782.8Sx/s | 15 | 69.96Uvg | +4.79×10¹⁶% |
+| 04 Aug 2026 | x160.88M | 24.76Qid | 82.56Sp/s | 16 | 2.04Qavg | +2.92×10⁹% |
 
 ---
 
